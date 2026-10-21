@@ -17,3 +17,8 @@ Comentário: O ideal é oferecer funções úteis sem deixar o aplicativo compli
 Comentário: É importante testar as atualizações antes de disponibilizá-las aos usuários.
 
 
+4) Minhas contribuições pessoais em relação a API: desenvolvi os slides da apresentação da sprint, as fotos e imagens e organizei alguns links.
+
+
+5) Habilidades que eu desenvolvi: Fundamentos do github, python, jira, scrum, ollama e outros.
+
