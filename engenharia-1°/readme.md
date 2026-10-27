@@ -17,8 +17,8 @@ Comentário: O ideal é oferecer funções úteis sem deixar o aplicativo compli
 Comentário: É importante testar as atualizações antes de disponibilizá-las aos usuários.
 
 
-4) Minhas contribuições pessoais em relação a API: desenvolvi os slides da apresentação da sprint, as fotos e imagens e organizei alguns links.
+4) Minhas contribuições pessoais em relação a API: desenvolvi os slides da apresentação das sprints, as fotos e imagens, organizei alguns links e fiz minha tarefa “Como desenvolvedor, busco saber as épocas com maior número de vendas, para fazer marketing nessa época.”
 
 
-5) Habilidades que eu desenvolvi: Fundamentos do github, python, jira, scrum, ollama e outros.
+5) Habilidades que eu desenvolvi: Fundamentos do github, python, jira, scrum, ollama. Python e Pandas: trabalhar com datas, agrupar dados por mês e calcular somas e porcentagens. Git e GitHub: criar branches, fazer commits e integrar mudanças ao código da equipe. Jira e scrum: trabalhar com user stories, backlog e sprint.
 
